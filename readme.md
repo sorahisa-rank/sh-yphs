@@ -1,2 +1,4 @@
 -   2023
+    -   [題目](https://sorahisa-rank.github.io/sh-yphs/2023/problems.pdf)
+    -   [題解 on HackMD](https://hackmd.io/@HNO2/SJHb2Qi1a)
     -   [正式賽](https://sorahisa-rank.github.io/sh-yphs/2023/ranking/)
